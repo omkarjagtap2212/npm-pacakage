@@ -1,0 +1,28 @@
+{
+  "name": "curr-convertor",
+  "version": "1.0.0",
+  "description": "an npm package for convertor",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/omkarjagtap2212/npm-pacakage.git"
+  },
+  "keywords": [
+    "npm",
+    "currency",
+    "convertor"
+  ],
+  "author": "omkar jagtap",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/omkarjagtap2212/npm-pacakage/issues"
+  },
+  "homepage": "https://github.com/omkarjagtap2212/npm-pacakage#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
